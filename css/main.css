@@ -1,0 +1,27 @@
+
+* {
+	font: 14px/210% 'Lucida Grande', sans-serif;
+	color: #8a8a8a;
+}
+
+h1 {
+	font-size: 50px;
+}
+
+h2{
+	font-size: 40px;
+	color: #f07c17;
+	margin: 0 0 15px;
+}
+
+.heading {
+	color: #666;
+	padding-bottom: 25px;
+	margin-top: 15px;
+}
+
+.features {
+	margin: 30px 0;
+	border: 1px solid #ccc;
+	padding: 50px;
+}
